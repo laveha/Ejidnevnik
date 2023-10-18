@@ -1,0 +1,14 @@
+D:\Проекты\Заметки\bin\Debug\net6.0\Заметки.exe
+D:\Проекты\Заметки\bin\Debug\net6.0\Заметки.deps.json
+D:\Проекты\Заметки\bin\Debug\net6.0\Заметки.runtimeconfig.json
+D:\Проекты\Заметки\bin\Debug\net6.0\Заметки.dll
+D:\Проекты\Заметки\bin\Debug\net6.0\Заметки.pdb
+D:\Проекты\Заметки\obj\Debug\net6.0\Заметки.GeneratedMSBuildEditorConfig.editorconfig
+D:\Проекты\Заметки\obj\Debug\net6.0\Заметки.AssemblyInfoInputs.cache
+D:\Проекты\Заметки\obj\Debug\net6.0\Заметки.AssemblyInfo.cs
+D:\Проекты\Заметки\obj\Debug\net6.0\Заметки.csproj.CoreCompileInputs.cache
+D:\Проекты\Заметки\obj\Debug\net6.0\Заметки.dll
+D:\Проекты\Заметки\obj\Debug\net6.0\refint\Заметки.dll
+D:\Проекты\Заметки\obj\Debug\net6.0\Заметки.pdb
+D:\Проекты\Заметки\obj\Debug\net6.0\Заметки.genruntimeconfig.cache
+D:\Проекты\Заметки\obj\Debug\net6.0\ref\Заметки.dll
